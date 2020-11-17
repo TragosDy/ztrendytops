@@ -1,0 +1,33 @@
+.tile {
+  font-family: Papyrus, fantasy;
+  font-size: 50px;
+  font-weight: bolder;
+  background-image: linear-gradient(#F5F5F5, lightpink);
+  text-align: center;
+}
+.but1 {
+  background-image: linear-gradient(antiquewhite, lightpink);
+  line-height: 1.5;
+  padding-top: 0;
+}
+.join {
+  font-size: 20px;
+}
+.head1 {
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+.jbody {
+background-color: #FFF0F5;
+}
+.bgi {
+  background-color: #d7c1c1;
+}
